@@ -1,0 +1,21 @@
+.luttons {
+  margin-top: 20px;
+  justify-content: space-between;
+  align-content: space-between;
+  flex-direction: row;
+  width: 100%;
+  padding: 20px 0px 20px 0px;
+  background-color: #F9F3F0;
+ }
+
+.titre-luttons {
+  margin:2% 15%;
+  }
+
+
+.luttons p {
+  margin:2% 15%;
+  font-weight: bolder;
+  color: #056365;
+  padding-left: 20px;
+}
