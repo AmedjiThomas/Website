@@ -1,0 +1,24 @@
+.gaspille {
+  background-color: #F9F3F0;
+  width: 100%;
+  padding: 20px;
+  margin-top: 20px;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.gaspille img {
+  margin:2% 25%;
+  width: 200px;
+  height: 200px;
+  border: solid;
+  border-width: 2px;
+  border-color: #056365;
+  border-radius: 15%;
+}
+
+.gaspille h3{
+  margin:2% 25%;
+  font-weight: bolder;
+  color: #056365;
+}
